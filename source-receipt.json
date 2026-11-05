@@ -2,26 +2,52 @@
   "repo": "tangyixiao/Shaoxingyizhong-img-xwzx-2025-nov-dec",
   "sourceBranch": "main",
   "sourceCommit": null,
+  "designVersion": 3,
+  "direction": {
+    "visualConcept": "暮蓝、橙金日光与冬季冷灰的双月纪事：户外合影横片从左侧延伸到中央，右侧是蓝校服发言现场的竖幅局部窗口，下方用两条月份轨道承接来源。通过大幅冷暖分区产生设计身份，而不是换一个按钮色。事实边界：2025 年 11—12 月图片路径分片，不推断具体研学行程或获奖名单。",
+    "layout": "atlas",
+    "palette": {
+      "light": {
+        "bg": "#D9E0E6",
+        "surface": "#F1EEE2",
+        "ink": "#293B49",
+        "muted": "#516574",
+        "accent": "#315d7f"
+      },
+      "dark": {
+        "bg": "#15232E",
+        "surface": "#243949",
+        "ink": "#ECF0E5",
+        "muted": "#a5bccb",
+        "accent": "#a8cde5"
+      }
+    },
+    "threeConcept": "Three.js 制作可折叠的双月蓝灰照片屏风，屏风一侧反射暖金背板，另一侧保持冷灰；照片仍是完整二维贴片，无人物立体抠图。",
+    "distinctiveInteraction": "切换 11 / 12 路径页签时屏风折到对应面，同时显示该组已选样本及来源；缺少更多素材时保持三张范围，不编造每周新闻。"
+  },
   "media": [
     {
       "src": "assets/media/photo-1.webp",
       "alt": "校园活动合影，来自绍兴一中公开图片归档",
-      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-xwzx-2025-nov-dec/blob/main/UploadFiles/xwzx/2025/11/202511250841235681.jpeg"
+      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-xwzx-2025-nov-dec/blob/main/UploadFiles/xwzx/2025/11/202511250841235681.jpeg",
+      "path": "UploadFiles/xwzx/2025/11/202511250841235681.jpeg"
     },
     {
       "src": "assets/media/photo-2.webp",
       "alt": "校园集体合影，来自绍兴一中公开图片归档",
-      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-xwzx-2025-nov-dec/blob/main/UploadFiles/xwzx/2025/12/202512080959475407.jpeg"
+      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-xwzx-2025-nov-dec/blob/main/UploadFiles/xwzx/2025/12/202512080959475407.jpeg",
+      "path": "UploadFiles/xwzx/2025/12/202512080959475407.jpeg"
     },
     {
       "src": "assets/media/photo-3.webp",
       "alt": "现场提问交流，来自绍兴一中公开图片归档",
-      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-xwzx-2025-nov-dec/blob/main/UploadFiles/xwzx/2025/12/202512010837043745.jpg"
+      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-xwzx-2025-nov-dec/blob/main/UploadFiles/xwzx/2025/12/202512010837043745.jpg",
+      "path": "UploadFiles/xwzx/2025/12/202512010837043745.jpg"
     }
   ],
   "skills": [
     "baoyu-design",
     "design-taste-frontend"
   ],
-  "design": "content-first source/product/photography; no rejected template or faux 3D"
+  "flagshipModel": null
 }
